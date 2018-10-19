@@ -1,8 +1,8 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
-  "start_url": "/",
+  "name": "Synapse Application",
+  "short_name": "SYNAPSE",
+  "description": "Synapse Application description",
+  "start_url": "/?utm_source=homescreen",
   "display": "standalone",
   "theme_color": "#3f51b5",
   "background_color": "#3f51b5",
